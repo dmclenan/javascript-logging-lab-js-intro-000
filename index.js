@@ -1,1 +1,2 @@
-console.log("hey whats up")
+console.log("hey")
+console.error("oops")
